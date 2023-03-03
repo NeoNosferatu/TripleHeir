@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleHeir", "TripleHeir.csproj", "{682869AD-9DB2-44A7-AF4A-03BD0D91ADAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682869AD-9DB2-44A7-AF4A-03BD0D91ADAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682869AD-9DB2-44A7-AF4A-03BD0D91ADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682869AD-9DB2-44A7-AF4A-03BD0D91ADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682869AD-9DB2-44A7-AF4A-03BD0D91ADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3E6574-0B2A-4AE0-8AF1-0CF5810ACE1C}
+	EndGlobalSection
+EndGlobal
